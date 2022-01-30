@@ -1,5 +1,5 @@
 # TFTP-Client
-HUST, CSE, 2020 Computer Networking Experiment, Socket programming part
+HUST, CSE, IS, 2020 Computer Networking Experiment, Socket programming part
 ## 开发环境及依赖
 1. 开发环境: Windows 10 x86
 2. 开发语言: C++
